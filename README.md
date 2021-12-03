@@ -22,7 +22,8 @@
 在终端（MacOS或Linux）中执行以下代码
 
 ```
-$ git clone https://github.com/hontsev/PondFighting.git
+##$ git clone https://github.com/hontsev/PondFighting.git
+$ git clone https://github.com/PondFighting/PondFighting.git
 $ cd PondFighting
 $ bundle install
 $ rake db:migrate
